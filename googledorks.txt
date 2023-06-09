@@ -1,0 +1,350 @@
+site:example.com
+intitle:"index of" password
+filetype:pdf site:example.com
+intext:"login" site:example.com
+inurl:admin site:example.com
+intitle:"index of" backup
+filetype:sql site:example.com
+intitle:"index of" config
+inurl:wp-content/uploads filetype:pdf
+intext:"error_reporting" phpinfo.php
+intitle:"index of" inurl:config
+inurl:/proc/self/environ
+site:example.com ext:php intitle:phpinfo "published by the PHP Group"
+intitle:"index of" db.sql
+intitle:"index of" password.txt
+filetype:log username password
+inurl:/etc/passwd
+intitle:"index of" inurl:wp-content/uploads
+intitle:"index of" inurl:backup
+inurl:robots.txt site:example.com
+intitle:"index of" inurl:admin
+intitle:"index of" intext:.htpasswd
+inurl:"ViewerFrame?Mode="
+intitle:"index of" inurl:ftp
+inurl:/proc/version
+site:example.com ext:sql intext:"-- phpMyAdmin SQL Dump"
+intitle:"index of" inurl:root
+inurl:/wp-login.php
+intitle:"index of" inurl:logs
+site:example.com ext:doc intitle:"Confidential" OR intitle:"Secret"
+intitle:"index of" inurl:phpinfo.php
+inurl:"/dana-na/"
+intext:"powered by WordPress" inurl:wp-content/uploads
+site:example.com ext:log
+intitle:"index of" inurl:config.php.bak
+inurl:/proc/self/cmdline
+intitle:"index of" inurl:password
+intext:"username" filetype:log
+inurl:/admin/login.php
+intitle:"index of" inurl:wp-config.php
+intext:"username" filetype:sql
+inurl:backup.sql site:example.com
+intitle:"index of" inurl:wwwroot
+intext:"password" filetype:log
+inurl:"/secure/"
+intitle:"index of" inurl:maillog
+intext:"password" filetype:sql
+inurl:/etc/shadow
+intitle:"index of" inurl:php.ini
+intext:"password" filetype:conf
+inurl:/wp-admin/
+intitle:"index of" inurl:database
+intext:"password" filetype:env
+inurl:/admin/login
+intitle:"index of" inurl:userdata
+intext:"password" filetype:properties
+inurl:/admin/index.php
+intitle:"index of" inurl:www
+intext:"password" filetype:ini
+inurl:/config.php
+intitle:"index of" inurl:web
+intext:"password" filetype:asp
+inurl:/config.txt
+intitle:"index of" inurl:website
+intext:"password" filetype:txt
+inurl:/config.php.bak
+intitle:"index of" inurl:portal
+intext:"password" filetype:log
+inurl:/config.php.save
+intitle:"index of" inurl:wwwroot
+intext:"password" filetype:reg
+inurl:/config.php.swp
+intitle:"index of" inurl:webroot
+intext:"password" filetype:dat
+inurl:/config.inc.php
+intitle:"index of" inurl:docs
+intext:"password" filetype:ini
+inurl:/config.bak
+intitle:"index of" inurl:files
+intext:"password" filetype:conf
+inurl:/config.save
+intitle:"index of" inurl:downloads
+intext:"password" filetype:db
+inurl:/config.swp
+intitle:"index of" inurl:config
+intext:"password" filetype:cfg
+inurl:/config.old
+intitle:"index of" inurl:cfg
+intext:"password" filetype:ora
+inurl:/config.backup
+intitle:"index of" inurl:admin
+intext:"password" filetype:ora
+inurl:/config.bkp
+intitle:"index of" inurl:backup
+intext:"password" filetype:ora
+inurl:/config.sav
+intitle:"index of" inurl:database
+intext:"password" filetype:mdb
+inurl:/config.old
+intitle:"index of" inurl:data
+inurl:/admin/login.php
+intitle:"index of" inurl:wp-content/uploads
+site:example.com ext:log
+intitle:"index of" inurl:config.php.bak
+inurl:/etc/passwd
+intext:"powered by WordPress" inurl:wp-content/uploads
+site:example.com ext:sql intext:"-- phpMyAdmin SQL Dump"
+intitle:"index of" inurl:wwwroot
+intext:"username" filetype:log
+inurl:/admin/login
+intitle:"index of" inurl:logs
+site:example.com ext:doc intitle:"Confidential" OR intitle:"Secret"
+intitle:"index of" inurl:phpinfo.php
+inurl:"/dana-na/"
+intitle:"index of" inurl:config
+intext:"username" filetype:sql
+inurl:backup.sql site:example.com
+intitle:"index of" inurl:userdata
+intext:"username" filetype:conf
+inurl:/wp-admin/
+intitle:"index of" inurl:database
+intext:"username" filetype:ini
+inurl:/config.php
+intitle:"index of" inurl:web
+intext:"username" filetype:asp
+inurl:/config.txt
+intitle:"index of" inurl:website
+intext:"username" filetype:cfg
+inurl:/config.inc.php
+intitle:"index of" inurl:www
+intext:"username" filetype:ora
+inurl:/config.php.bak
+intitle:"index of" inurl:cfg
+intext:"username" filetype:ora
+inurl:/config.save
+intitle:"index of" inurl:backup
+intext:"username" filetype:ora
+inurl:/config.swp
+intitle:"index of" inurl:webroot
+intext:"username" filetype:mdb
+inurl:/config.old
+intitle:"index of" inurl:data
+intext:"password" filetype:log
+inurl:/admin/index.php
+intitle:"index of" inurl:maillog
+intext:"password" filetype:txt
+inurl:/wp-login.php
+intitle:"index of" inurl:config
+intext:"password" filetype:sql
+inurl:/etc/shadow
+intitle:"index of" inurl:php.ini
+intext:"password" filetype:conf
+inurl:/wp-admin/
+intitle:"index of" inurl:database
+intext:"password" filetype:env
+inurl:/admin/login
+intitle:"index of" inurl:userdata
+intext:"password" filetype:properties
+inurl:"/secure/"
+intitle:"index of" inurl:wwwroot
+intext:"password" filetype:ini
+inurl:/admin/login.php
+intitle:"index of" inurl:logs
+intext:"password" filetype:ora
+inurl:/wp-login.php
+intitle:"index of" inurl:config
+intext:"password" filetype:reg
+inurl:/admin/index.php
+intitle:"index of" inurl:backup
+intext:"password" filetype:ora
+inurl:/config.php
+intitle:"index of" inurl:web
+intext:"password" filetype:ora
+inurl:/config.txt
+intitle:"index of" inurl:website
+intext:"password" filetype:cfg
+inurl:/config.inc.php
+intitle:"index of" inurl:www
+intext:"password" filetype:asp
+inurl:/config.php.bak
+intitle:"index of" inurl:cfg
+intext:"password" filetype:txt
+inurl:/config.save
+intitle:"index of" inurl:backup
+intext:"password" filetype:log
+inurl:/config.swp
+intitle:"index of" inurl:webroot
+intext:"password" filetype:conf
+inurl:/config.old
+intitle:"index of" inurl:data
+intext:"password" filetype:dat
+inurl:/admin/index.php
+intitle:"index of" inurl:maillog
+intext:"password" filetype:txt
+inurl:/wp-login.php
+intitle:"index of" inurl:config
+intext:"password" filetype:sql
+inurl:/etc/shadow
+intitle:"index of" inurl:php.ini
+intext:"password" filetype:env
+intitle:"index of" inurl:wp-config.php.bak
+inurl:/wp-content/plugins/akismet/readme.txt
+site:example.com intext:"mysql_connect("
+intitle:"index of" inurl:wp-config.php.save
+inurl:/wp-content/uploads/ intitle:"Index of /"
+site:example.com intext:"Error establishing a database connection"
+intitle:"index of" inurl:wp-config.php.swp
+inurl:/wp-json/wp/v2/users/
+site:example.com intitle:"Welcome to nginx!"
+intitle:"index of" inurl:wp-config.php~
+inurl:/administrator/index.php
+site:example.com intitle:"Apache2 Ubuntu Default Page"
+intitle:"index of" inurl:wp-config.php.bkp
+inurl:/login.php intitle:"Login"
+site:example.com intitle:"IIS 8.5 Detailed Error - 404.0 - Not Found"
+intitle:"index of" inurl:wp-config.php.old
+inurl:/user/login intitle:"User Login"
+site:example.com intitle:"Index of /" +.htaccess
+intitle:"index of" inurl:wp-config.php.save.bak
+inurl:/phpmyadmin/index.php
+site:example.com intitle:"Index of /" +error.log
+intitle:"index of" inurl:wp-config.php.bak.swp
+inurl:/xampp/phpinfo.php
+site:example.com intitle:"Welcome to nginx!" intext:"success"
+intitle:"index of" inurl:wp-config.php.old.bak
+inurl:/admin.php
+site:example.com intitle:"Index of /" +access.log
+intitle:"index of" inurl:wp-config.php.save.swp
+inurl:/cgi-bin/login.cgi
+site:example.com intitle:"Index of /" +server-status
+intitle:"index of" inurl:wp-config.php.swp.bak
+inurl:/wp-login.php?action=register
+site:example.com intitle:"Index of /" +config.php
+intitle:"index of" inurl:wp-config.php.old.swp
+inurl:/wp-login.php?action=lostpassword
+site:example.com intitle:"Index of /" +wp-config.php
+intitle:"index of" inurl:wp-config.php.swp.old
+inurl:/admin/login.html
+site:example.com intitle:"Index of /" +database
+intitle:"index of" inurl:wp-config.php.save.swp.bak
+inurl:/admin/index.html
+site:example.com intitle:"Index of /" +backup
+intitle:"index of" inurl:wp-config.php.old.swp.bak
+inurl:/wp-admin/setup-config.php
+site:example.com intitle:"Index of /" +config
+intitle:"index of" inurl:wp-config.php.save.old
+inurl:/phpMyAdmin/index.php
+site:example.com intitle:"Index of /" +wp-admin
+intitle:"index of" inurl:wp-config.php.bak.swp.old
+inurl:/administrator/index.html
+site:example.com intitle:"Index of /" +uploads
+intitle:"index of" inurl:wp-config.php.save.swp.old
+inurl:/phpMyAdmin/
+site:example.com intitle:"Index of /" +config.json
+intitle:"index of" inurl:wp-config.php.swp.bak.old
+inurl:/admin/
+site:example.com intitle:"Index of /" +config.php.save
+intitle:"index of" inurl:wp-config.php.old.bak
+inurl:/wp-admin/
+site:example.com intitle:"Index of /" +config.php.bak
+intitle:"index of" inurl:wp-config.php.bkp.swp
+inurl:/administrator/login.php
+site:example.com intitle:"Index of /" +config.php.save.bak
+intitle:"index of" inurl:wp-config.php.bak.old
+inurl:/login
+site:example.com intitle:"Index of /" +database.sql
+intitle:"index of" inurl:wp-config.php.old.bak.swp
+inurl:/admin/login
+site:example.com intitle:"Index of /" +.env
+intitle:"index of" inurl:wp-config.php.old.swp.bak
+inurl:/wp-login.php
+site:example.com intitle:"Index of /" +config.bak
+intitle:"index of" inurl:wp-config.php.swp.bak.old
+inurl:/admin/login.php
+site:example.com intitle:"Index of /" +wp-config.bak
+intitle:"index of" inurl:wp-config.php.old.bak.swp
+inurl:/admin/login.html
+site:example.com intitle:"Index of /" +wp-config.save
+intitle:"index of" inurl:wp-config.php.save.bak
+inurl:/wp-login.php?action=register
+site:example.com intitle:"Index of /" +wp-config.save.bak
+intitle:"index of" inurl:wp-config.php.save.swp.old
+inurl:/admin/index.html
+site:example.com intitle:"Index of /" +wp-config.save.swp
+intitle:"index of" inurl:wp-config.php.swp.bak.old
+inurl:/admin.php
+site:example.com intitle:"Index of /" +wp-config.bak.swp
+intitle:"index of" inurl:wp-config.php.swp.old.bak
+inurl:/cgi-bin/login.cgi
+site:example.com intitle:"Index of /" +wp-config.save.swp
+intitle:"index of" inurl:wp-config.php.swp.bak.old
+inurl:/wp-login.php?action=lostpassword
+site:example.com intitle:"Index of /" +wp-config.bak.swp
+intitle:"index of" inurl:wp-config.php.swp.old.bak
+inurl:/wp-admin/setup-config.php
+site:example.com intitle:"Index of /" +wp-config.save.swp
+intitle:"index of" inurl:wp-config.php.save.swp.bak
+inurl:/phpMyAdmin/index.php
+site:example.com intitle:"Index of /" +wp-config.bak.swp.old
+inurl:/wp-admin/index.php
+site:example.com intext:"Uploads by FTP"
+intitle:"index of" inurl:backup.zip
+site:example.com intext:"Powered by phpBB"
+intitle:"index of" inurl:backup.tar.gz
+site:example.com intext:"Powered by vBulletin"
+intitle:"index of" inurl:backup.rar
+site:example.com intext:"Powered by Joomla"
+intitle:"index of" inurl:backup.7z
+site:example.com intext:"Powered by Drupal"
+intitle:"index of" inurl:backup.sql.gz
+site:example.com intext:"Powered by Magento"
+intitle:"index of" inurl:backup.tar
+site:example.com intext:"Powered by WordPress"
+intitle:"index of" inurl:backup.zip.bak
+site:example.com intext:"Powered by Shopify"
+intitle:"index of" inurl:backup.tar.gz.bak
+site:example.com intext:"Powered by OpenCart"
+intitle:"index of" inurl:backup.rar.bak
+site:example.com intext:"Powered by PrestaShop"
+intitle:"index of" inurl:backup.7z.bak
+site:example.com intext:"Powered by Moodle"
+intitle:"index of" inurl:database.sql
+site:example.com intext:"Powered by MediaWiki"
+intitle:"index of" inurl:database.sql.gz
+site:example.com intext:"Powered by Typo3"
+intitle:"index of" inurl:database.sql.bak
+site:example.com intext:"Powered by Concrete5"
+intitle:"index of" inurl:database.sql.tar.gz
+site:example.com intext:"Powered by Discuz!"
+intitle:"index of" inurl:database.sql.tar
+site:example.com intext:"Powered by MyBB"
+intitle:"index of" inurl:database.sql.zip
+site:example.com intext:"Powered by XenForo"
+intitle:"index of" inurl:database.sql.zip.bak
+site:example.com intext:"Powered by phpMyAdmin"
+intitle:"index of" inurl:database.bak
+site:example.com intext:"Powered by phpPgAdmin"
+intitle:"index of" inurl:database.bak.gz
+site:example.com intext:"Powered by Plesk"
+intitle:"index of" inurl:database.bak.tar.gz
+site:example.com intext:"Powered by cPanel"
+intitle:"index of" inurl:database.bak.tar
+site:example.com intext:"Powered by WHM"
+intitle:"index of" inurl:database.bak.zip
+site:example.com intext:"Powered by DirectAdmin"
+intitle:"index of" inurl:database.bkp
+site:example.com intext:"Powered by Zabbix"
+intitle:"index of" inurl:database.bkp.gz
+site:example.com intext:"Powered by Nagios"
+intitle:"index of" inurl:database.bkp.tar.gz
